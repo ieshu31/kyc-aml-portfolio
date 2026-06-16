@@ -1,0 +1,11 @@
+Case ID,Customer Name,Country,Business Type,Risk Rating,Documents Received,Review Due Date,Status,Unnamed: 8,Total Cases,20
+KYC002,Sara Al-Farsi,Iran,Trading,High,No,01/06/2024,Overdue,,In Progress,5.0
+KYC004,Raj Kim,North Korea,Import/Export,High,No,01/06/2024,Overdue,,High Risk,8.0
+KYC005,Meena Rajan,UAE,Real Estate,High,Yes,01/06/2025,In Progress,,Docs Missing,8.0
+KYC006,Aaron,UK,IT Services,Low,No,09/11/2024,In Progress,,,
+KYC007,Dart,USA,Gold trading,High,Yes,12/07/20025,Overdue,,,
+KYC008,Kim,India,insurance,Medium,No,24/07/2027,Complete,,,
+KYC010,Ashlyn,USA,Casino,High,No,18/05/2025,In Progress,,,
+KYC011,Fatima Al-Hassan,Syria,Import/Export,High,No,01/06/2024,Overdue,,,
+KYC014,Mohammed Al-Rashid,UAE,Gold Trading,High,No,01/06/2024,Overdue,,,
+KYC017,Carlos Mendez,Venezuela,Cryptocurrency Trading,High,No,01/06/2024,Overdue,,,
